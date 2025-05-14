@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981326723045",
+    "project_id": "app-quicklens",
+    "storage_bucket": "app-quicklens.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981326723045:android:542abaffe0ef913fad610c",
+        "android_client_info": {
+          "package_name": "com.example.quicklens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMc-R5E-OCmtt4OWT8NcF3QXatJsJrBgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

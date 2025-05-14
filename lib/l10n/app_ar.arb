@@ -1,0 +1,29 @@
+{
+  "@@locale": "ar",
+  "languageName": "العربية",
+  "followSystem": "اتباع لغة النظام",
+  "@followSystem": {
+    "description": "تسمية لخيار متابعة لغة النظام"
+  },
+  "accountSettings": "إعدادات الحساب",
+  "username": "اسم المستخدم",
+  "enterUsername": "أدخل اسم المستخدم",
+  "email": "البريد الإلكتروني",
+  "enterEmail": "أدخل البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "enterPassword": "أدخل كلمة المرور",
+  "currentPasswordEmpty": "يا حبيبتي، لازم تكتبي كلمة السر الحالية",
+  "newPasswordEmpty": "يا قمر، ما نسيتي تكتبي كلمة السر الجديدة؟",
+  "confirmPasswordEmpty": "يا روحي، تأكيدي كلمة السر من فضلك",
+  "passwordMinLength": "يا قلبي، كلمة السر لازم تكون ${minLength} أحرف أو أكتر",
+  "passwordsDontMatch": "يا عمري، كلمات السر ما بتطابق بعض",
+  "changePassword": "تغيير كلمة المرور",
+  "currentPassword": "كلمة المرور الحالية",
+  "enterCurrentPassword": "أدخل كلمة المرور الحالية",
+  "newPassword": "كلمة المرور الجديدة",
+  "enterNewPassword": "أدخل كلمة المرور الجديدة",
+  "confirmPassword": "تأكيد كلمة المرور",
+  "confirmNewPassword": "تأكيد كلمة المرور الجديدة",
+  "save": "حفظ",
+  "saveChanges": "حفظ التغييرات"
+}

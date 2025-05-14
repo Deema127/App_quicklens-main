@@ -1,0 +1,23 @@
+{
+  "@@locale": "en",
+  "languageName": "English",
+  "followSystem": "Follow the phone's system",
+  "@followSystem": {
+    "description": "Label for following system language setting"
+  },
+  "accountSettings": "Account Settings",
+  "username": "Username",
+  "enterUsername": "Enter username",
+  "email": "Email",
+  "enterEmail": "Enter email",
+  "password": "Password",
+  "changePassword": "Change Password",
+  "currentPassword": "Current Password",
+  "enterCurrentPassword": "Enter current password",
+  "newPassword": "New Password",
+  "enterNewPassword": "Enter new password",
+  "confirmPassword": "Confirm Password",
+  "confirmNewPassword": "Confirm new password",
+  "save": "Save",
+  "saveChanges": "Save Changes"
+}

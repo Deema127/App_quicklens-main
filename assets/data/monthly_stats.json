@@ -1,0 +1,148 @@
+{
+  "stats": [
+    {
+      "month": "2025-01",
+      "metrics": [
+        {"name": "Total Users", "value": "125", "change": "+15%", "icon": "people"},
+        {"name": "New Users", "value": "35", "change": "+18%", "icon": "person_add"},
+        {"name": "Active Users", "value": "98", "change": "+12%", "icon": "person"},
+        {"name": "Product Sales", "value": "85", "change": "+8%", "icon": "shopping_cart"},
+        {"name": "Top Product", "value": "Lens Cleaner", "change": "42%", "icon": "star"},
+        {"name": "Revenue", "value": "USD 1,250", "change": "+10%", "icon": "attach_money"},
+        {"name": "Avg. Order", "value": "USD 14.70", "change": "+2%", "icon": "receipt"}
+      ]
+    },
+    {
+      "month": "2025-02",
+      "metrics": [
+        {"name": "Total Users", "value": "150", "change": "+20%", "icon": "people"},
+        {"name": "New Users", "value": "45", "change": "+29%", "icon": "person_add"},
+        {"name": "Active Users", "value": "120", "change": "+22%", "icon": "person"},
+        {"name": "Product Sales", "value": "110", "change": "+29%", "icon": "shopping_cart"},
+        {"name": "Top Product", "value": "Camera Lens", "change": "38%", "icon": "star"},
+        {"name": "Revenue", "value": "USD 1,650", "change": "+32%", "icon": "attach_money"},
+        {"name": "Avg. Order", "value": "USD 15.00", "change": "+2%", "icon": "receipt"}
+      ]
+    },
+    {
+      "month": "2025-03",
+      "metrics": [
+        {"name": "Total Users", "value": "180", "change": "+20%", "icon": "people"},
+        {"name": "New Users", "value": "50", "change": "+43%", "icon": "person_add"},
+        {"name": "Active Users", "value": "145", "change": "+21%", "icon": "person"},
+        {"name": "Product Sales", "value": "140", "change": "+27%", "icon": "shopping_cart"},
+        {"name": "Top Product", "value": "Tripod", "change": "35%", "icon": "star"},
+        {"name": "Revenue", "value": "USD 2,100", "change": "+27%", "icon": "attach_money"},
+        {"name": "Avg. Order", "value": "USD 15.00", "change": "0%", "icon": "receipt"}
+      ]
+    },
+    {
+      "month": "2025-04",
+      "metrics": [
+        {"name": "Total Users", "value": "220", "change": "+22%", "icon": "people"},
+        {"name": "New Users", "value": "55", "change": "+38%", "icon": "person_add"},
+        {"name": "Active Users", "value": "180", "change": "+24%", "icon": "person"},
+        {"name": "Product Sales", "value": "175", "change": "+25%", "icon": "shopping_cart"},
+        {"name": "Top Product", "value": "Camera Bag", "change": "32%", "icon": "star"},
+        {"name": "Revenue", "value": "USD 2,625", "change": "+25%", "icon": "attach_money"},
+        {"name": "Avg. Order", "value": "USD 15.00", "change": "0%", "icon": "receipt"}
+      ]
+    },
+    {
+      "month": "2025-05",
+      "metrics": [
+        {"name": "Total Users", "value": "265", "change": "+20%", "icon": "people"},
+        {"name": "New Users", "value": "60", "change": "+33%", "icon": "person_add"},
+        {"name": "Active Users", "value": "220", "change": "+22%", "icon": "person"},
+        {"name": "Product Sales", "value": "210", "change": "+20%", "icon": "shopping_cart"},
+        {"name": "Top Product", "value": "SD Card", "change": "30%", "icon": "star"},
+        {"name": "Revenue", "value": "USD 3,150", "change": "+20%", "icon": "attach_money"},
+        {"name": "Avg. Order", "value": "USD 15.00", "change": "0%", "icon": "receipt"}
+      ]
+    },
+    {
+      "month": "2025-06",
+      "metrics": [
+        {"name": "Total Users", "value": "320", "change": "+21%", "icon": "people"},
+        {"name": "New Users", "value": "65", "change": "+30%", "icon": "person_add"},
+        {"name": "Active Users", "value": "265", "change": "+20%", "icon": "person"},
+        {"name": "Product Sales", "value": "250", "change": "+19%", "icon": "shopping_cart"},
+        {"name": "Top Product", "value": "Camera Filter", "change": "28%", "icon": "star"},
+        {"name": "Revenue", "value": "USD 3,750", "change": "+19%", "icon": "attach_money"},
+        {"name": "Avg. Order", "value": "USD 15.00", "change": "0%", "icon": "receipt"}
+      ]
+    },
+    {
+      "month": "2025-07",
+      "metrics": [
+        {"name": "Total Users", "value": "380", "change": "+19%", "icon": "people"},
+        {"name": "New Users", "value": "70", "change": "+28%", "icon": "person_add"},
+        {"name": "Active Users", "value": "310", "change": "+17%", "icon": "person"},
+        {"name": "Product Sales", "value": "290", "change": "+16%", "icon": "shopping_cart"},
+        {"name": "Top Product", "value": "Camera Strap", "change": "26%", "icon": "star"},
+        {"name": "Revenue", "value": "USD 4,350", "change": "+16%", "icon": "attach_money"},
+        {"name": "Avg. Order", "value": "USD 15.00", "change": "0%", "icon": "receipt"}
+      ]
+    },
+    {
+      "month": "2025-08",
+      "metrics": [
+        {"name": "Total Users", "value": "450", "change": "+18%", "icon": "people"},
+        {"name": "New Users", "value": "75", "change": "+25%", "icon": "person_add"},
+        {"name": "Active Users", "value": "370", "change": "+19%", "icon": "person"},
+        {"name": "Product Sales", "value": "340", "change": "+17%", "icon": "shopping_cart"},
+        {"name": "Top Product", "value": "Lens Hood", "change": "24%", "icon": "star"},
+        {"name": "Revenue", "value": "USD 5,100", "change": "+17%", "icon": "attach_money"},
+        {"name": "Avg. Order", "value": "USD 15.00", "change": "0%", "icon": "receipt"}
+      ]
+    },
+    {
+      "month": "2025-09",
+      "metrics": [
+        {"name": "Total Users", "value": "520", "change": "+16%", "icon": "people"},
+        {"name": "New Users", "value": "80", "change": "+23%", "icon": "person_add"},
+        {"name": "Active Users", "value": "440", "change": "+19%", "icon": "person"},
+        {"name": "Product Sales", "value": "400", "change": "+18%", "icon": "shopping_cart"},
+        {"name": "Top Product", "value": "Camera Battery", "change": "22%", "icon": "star"},
+        {"name": "Revenue", "value": "USD 6,000", "change": "+18%", "icon": "attach_money"},
+        {"name": "Avg. Order", "value": "USD 15.00", "change": "0%", "icon": "receipt"}
+      ]
+    },
+    {
+      "month": "2025-10",
+      "metrics": [
+        {"name": "Total Users", "value": "600", "change": "+15%", "icon": "people"},
+        {"name": "New Users", "value": "85", "change": "+20%", "icon": "person_add"},
+        {"name": "Active Users", "value": "520", "change": "+18%", "icon": "person"},
+        {"name": "Product Sales", "value": "480", "change": "+20%", "icon": "shopping_cart"},
+        {"name": "Top Product", "value": "Memory Card", "change": "20%", "icon": "star"},
+        {"name": "Revenue", "value": "USD 7,200", "change": "+20%", "icon": "attach_money"},
+        {"name": "Avg. Order", "value": "USD 15.00", "change": "0%", "icon": "receipt"}
+      ]
+    },
+    {
+      "month": "2025-11",
+      "metrics": [
+        {"name": "Total Users", "value": "690", "change": "+15%", "icon": "people"},
+        {"name": "New Users", "value": "90", "change": "+18%", "icon": "person_add"},
+        {"name": "Active Users", "value": "610", "change": "+17%", "icon": "person"},
+        {"name": "Product Sales", "value": "570", "change": "+19%", "icon": "shopping_cart"},
+        {"name": "Top Product", "value": "Camera Case", "change": "18%", "icon": "star"},
+        {"name": "Revenue", "value": "USD 8,550", "change": "+19%", "icon": "attach_money"},
+        {"name": "Avg. Order", "value": "USD 15.00", "change": "0%", "icon": "receipt"}
+      ]
+    },
+    {
+      "month": "2025-12",
+      "metrics": [
+        {"name": "Total Users", "value": "800", "change": "+16%", "icon": "people"},
+        {"name": "New Users", "value": "95", "change": "+15%", "icon": "person_add"},
+        {"name": "Active Users", "value": "720", "change": "+18%", "icon": "person"},
+        {"name": "Product Sales", "value": "680", "change": "+19%", "icon": "shopping_cart"},
+        {"name": "Top Product", "value": "Lens Cap", "change": "16%", "icon": "star"},
+        {"name": "Revenue", "value": "USD 10,200", "change": "+19%", "icon": "attach_money"},
+        {"name": "Avg. Order", "value": "USD 15.00", "change": "0%", "icon": "receipt"}
+      ]
+    }
+  ]
+}
